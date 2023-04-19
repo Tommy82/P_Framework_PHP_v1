@@ -1,6 +1,7 @@
 <html lang="de">
     <head>
         <title>{$TITLE}</title>
+        <link rel="stylesheet" href="/public/styles/basics.css">
     </head>
     <body>
         {block name='navigation'}
